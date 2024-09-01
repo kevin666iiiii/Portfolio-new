@@ -1,0 +1,13 @@
+html,body{
+    margin: 0;
+}
+
+.work-pic{
+    text-align: center;
+}
+
+.work-pic img{
+    width: 100%;
+    margin: 20px 0 20px 0;
+}
+
