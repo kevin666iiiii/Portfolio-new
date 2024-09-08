@@ -1,0 +1,19 @@
+html,body{
+    margin: 0;
+}
+
+.container-top{
+    width: 100%;
+    display: flex;
+    /*justify-content: space-between;*/
+}
+
+.work-pic{
+    text-align: center;
+}
+
+.work-pic img{
+    width: 100%;
+    margin: 20px 0 20px 0;
+}
+
