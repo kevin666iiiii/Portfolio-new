@@ -1,7 +1,19 @@
 .navbar{
-    padding: 20px 8% 20px 8%;
+    margin: 20px 10% 20px 10%;
 }
-
+.navbar .navbar-text{
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+.navbar .navbar-text a{
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+.navbar .navbar-text a:hover{
+    text-decoration: none;
+}
 .nav-Link{
 
 }

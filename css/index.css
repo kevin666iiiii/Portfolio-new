@@ -1,13 +1,22 @@
-html,body{
+html,
+body {
     margin: 0;
 }
-
+/* 
+img {
+    width: 100%;
+    margin-bottom: 20px;
+} */
 .container-top{
     width: 100%;
     display: flex;
     /*justify-content: space-between;*/
 }
-
+.container-top p{
+    color: rgb(30, 8, 213);
+    font-weight: bold;
+    /* font-size: 1.8rem; */
+}
 .work-pic{
     text-align: center;
 }
@@ -16,4 +25,3 @@ html,body{
     width: 100%;
     margin: 20px 0 20px 0;
 }
-
