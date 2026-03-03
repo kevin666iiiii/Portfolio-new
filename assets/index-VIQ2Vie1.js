@@ -68873,10 +68873,6 @@ const pte = ({ images: n }) => {
           })
         ]
       }),
-      b.jsx('img', {
-        src: '/homepage/design/waves.svg',
-        className: 'hidden lg:inline-block w-full absolute top-[-60%] left-0 z-0'
-      }),
       e && b.jsx(hte, { 
         src: e.src + '_lg.jpg',
         closeModal: o })
